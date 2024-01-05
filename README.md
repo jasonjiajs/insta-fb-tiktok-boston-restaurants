@@ -4,7 +4,7 @@ Final Project, MIT 15.072 - Advanced Analytics Edge
 <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/da01ac57-07de-4f29-9e7d-71ab0b45da63" width="550" />
 
 ## Summary
-Boston restaurants targeting younger audiences can significantly improve overall social media engagement by spending a lot more time creating content on TikTok relative to Instagram and Facebook. Life Alive Organic Cafe expressed strong interest in our project, and we are currently discussing ideas for future collaboration. We are in the midst of signing an NDA, and plan to start in Spring 2024.
+Boston restaurants targeting younger audiences can significantly improve overall social media engagement by spending a lot more time creating content on TikTok relative to Instagram and Facebook. [Life Alive Organic Cafe](https://www.lifealive.com/) expressed strong interest in our project, and we are currently discussing ideas for future collaboration. We are in the midst of signing an NDA, and plan to start in Spring 2024.
 
 ## Problem and Motivation
 Deciding how to allocate content creation resources (e.g. time, effort, number of posts) across different social media channels is critical to the success of a business. But:

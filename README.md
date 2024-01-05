@@ -21,3 +21,6 @@ Final Project, MIT 15.072 - Advanced Analytics Edge
 
 ## Impact - Life Alive Organic Cafe
 <img width="837" alt="image" src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/c21ae924-1393-4f21-bb1f-293711f9fd55">
+
+![life_alive_insta_posts](https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/d269ac23-2c61-4b78-816b-3d507d2765c1)
+

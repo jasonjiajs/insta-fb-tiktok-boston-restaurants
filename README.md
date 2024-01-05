@@ -4,6 +4,7 @@ Final Project, MIT 15.072 - Advanced Analytics Edge
 <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/da01ac57-07de-4f29-9e7d-71ab0b45da63" width="550" />
 
 ## Summary
+Boston restaurants targeting younger audiences can significantly improve overall social media engagement by spending a lot more time creating content on TikTok relative to Instagram and Facebook. We pitched our recommendations to Life Alive Organic Cafe which expressed strong interest in our project, and we are currently discussing ideas for future collboration.
 
 ## Problem and Motivation
 Deciding how to allocate content creation resources (e.g. time, effort, number of posts) across different social media channels is critical to the success of a business. But:
@@ -59,7 +60,7 @@ We also developed a Streamlit-based front-end that enables restaurants to assess
 ## Case Study - Life Alive Organic Cafe
 While the estimated 30% improvement in overall engagement is promising, not all restaurants are likely to unlock the full benefits by increasing content creation efforts on TikTok. This could be because the restaurant's customer base might not use TikTok regularly (e.g. older audience) and/or creating video content on TikTok might be a challenge (e.g. because it takes more time than images or text). However, for restaurants that target younger audiences and are already creating video content, but have limited activity on TikTok, shifting resources towards TikTok is likely to significantly improve overall engagement.
 
-[Life Alive Organic Cafe](https://www.lifealive.com/), a Boston-based cafe is a perfect example. It specializes in organic, plant-based food with vegan and vegetarian options, and is especially popular amongst the younger demographic.
+[Life Alive Organic Cafe](https://www.lifealive.com/), a Boston-based cafe is a perfect example of a restaurant who will benefit from our recommendations. It specializes in organic, plant-based food with vegan and vegetarian options, and is especially popular amongst the younger demographic.
 
 <img width="837" alt="image" src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/c21ae924-1393-4f21-bb1f-293711f9fd55">
 
@@ -69,23 +70,9 @@ It is also highly active on social media, with a dedicated marketing team which 
 
 However, while it has established a significant presence on Instagram with 28.3K followers and Facebook with 13K followers, it has made little impact on TikTok with only 390 followers. 
 
-
-<p float="left">
-  <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/7229468d-9eea-4774-adcf-9768ff17d865" width="500" />
-  <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/88f3f2d6-4507-4c9e-a4aa-ac1745578430" width="500" /> 
-  <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/4d72fa9f-f501-49e2-83f7-f71051352e08" width="380" />
-</p>
-
-<img width="687" alt="image" src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/4d72fa9f-f501-49e2-83f7-f71051352e08">
-
-
-<img width="806" alt="image" src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/88f3f2d6-4507-4c9e-a4aa-ac1745578430">
-
-![image](https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/7229468d-9eea-4774-adcf-9768ff17d865)
-
-
-The promising gains of 30% in 
+<img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/4d72fa9f-f501-49e2-83f7-f71051352e08" width="600" />
+<img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/88f3f2d6-4507-4c9e-a4aa-ac1745578430" width="600" /> 
+<img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/7229468d-9eea-4774-adcf-9768ff17d865" width="600" />
 
 ## Impact - Life Alive Organic Cafe
-
-
+We pitched our recommendations to Kaitlyn Mailly, the social media coordinator of Life Alive Organic Cafe. She expressed strong interest in our project as her marketing team is also considering ramping up activity on Tiktok relative to Instagram and Facebook, which currently serve as their main social media channels. We are currently discussing how we can further collaborate, and are in the midst of signing an NDA.

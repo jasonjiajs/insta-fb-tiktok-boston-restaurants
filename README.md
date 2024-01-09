@@ -1,5 +1,6 @@
 # How should Boston restaurants allocate content creation resources across Instagram, Facebook and Tiktok?
-Final Project, MIT 15.072 - Advanced Analytics Edge
+Final Project, MIT 15.072 - Advanced Analytics Edge <br>
+Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Stephanie Sha](www.linkedin.com/in/ousha/), [Maria Besedovskaya](https://www.linkedin.com/in/mariabesedovskaya/), [Pavena Vongkhammi](https://www.linkedin.com/in/pavena-vongkhammi/)
 
 <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/da01ac57-07de-4f29-9e7d-71ab0b45da63" width="550" />
 

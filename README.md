@@ -5,7 +5,7 @@ Team Members: [Jason Jia](https://www.linkedin.com/in/jasonjiajs/), [Stephanie S
 <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/da01ac57-07de-4f29-9e7d-71ab0b45da63" width="550" />
 
 ## Summary
-Boston restaurants targeting younger audiences can significantly improve overall social media engagement by spending a lot more time creating content on TikTok relative to Instagram and Facebook. [Life Alive Organic Cafe](https://www.lifealive.com/) expressed strong interest in our project, and we are currently discussing ideas for future collaboration. We are in the midst of signing an NDA, and plan to start in Spring 2024.
+Boston restaurants targeting younger audiences can significantly improve overall social media engagement by spending a lot more time creating content on TikTok relative to Instagram and Facebook. [Life Alive Organic Cafe](https://www.lifealive.com/) expressed strong interest in our project, and we are currently discussing ideas for future collaboration. We have signed an NDA, and plan to start in Spring 2024.
 
 ## Problem and Motivation
 Deciding how to allocate content creation resources (e.g. time, effort, number of posts) across different social media channels is critical to the success of a business. But:
@@ -76,4 +76,4 @@ However, while it has established a significant presence on Instagram with 28.3K
 <img src="https://github.com/jasonjiajs/insta-fb-tiktok-boston-restaurants/assets/90637415/7229468d-9eea-4774-adcf-9768ff17d865" width="600" />
 
 ## Impact - Life Alive Organic Cafe
-We pitched our recommendations to Kaitlyn Mailly, the social media coordinator of Life Alive Organic Cafe. She expressed strong interest in our project as her marketing team is also considering ramping up activity on Tiktok relative to Instagram and Facebook, which currently serve as their main social media channels. We are currently discussing how we can further collaborate, and are in the midst of signing an NDA.
+We pitched our recommendations to Kaitlyn Mailly, the social media coordinator of Life Alive Organic Cafe. She expressed strong interest in our project as her marketing team is also considering ramping up activity on Tiktok relative to Instagram and Facebook, which currently serve as their main social media channels. We are currently discussing how we can further collaborate, and have signed an NDA.
